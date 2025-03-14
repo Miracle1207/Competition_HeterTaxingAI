@@ -1,0 +1,11 @@
+numpy
+pygame
+gym
+wandb
+env
+tensorboardX
+pandas
+scipy
+omegaconf
+quantecon
+matplotlib

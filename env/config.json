@@ -1,0 +1,22 @@
+{
+    "taxing_gov_heter": {
+    "class_literal": "Taxing_Gov_Heter",
+    "n_player": 1,
+    "max_step": 300,
+    "game_name": "taxing_gov_heter",
+    "is_obs_continuous": true,
+    "is_act_continuous": true,
+    "agent_nums": [1],
+    "obs_type": ["dict"]
+    },
+  "taxing_households_heter": {
+    "class_literal": "Taxing_Household_Heter",
+    "n_player": 1,
+    "max_step": 300,
+    "game_name": "taxing_households_heter",
+    "is_obs_continuous": true,
+    "is_act_continuous": true,
+    "agent_nums": [1],
+    "obs_type": ["dict"]
+    }
+}
